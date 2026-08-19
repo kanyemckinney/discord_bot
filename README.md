@@ -1,0 +1,1 @@
+Install Node.js and then run npm install discord.js
